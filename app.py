@@ -71,4 +71,4 @@ def main():
 if __name__ == '__main__':
     main()
     
-# lanciare streamlit: streamlit run app.py        
+# streamlit run app.py        
